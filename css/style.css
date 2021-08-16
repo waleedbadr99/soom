@@ -544,7 +544,11 @@ color: var(--main-color);
 .footer p span {
     color: var(--main-color);
 }
+}
 @media (max-width:576px) {
+  .had-top {
+    background-position: 80%;
+}
     .about .about-had .p-about, 
     .services .services-had .p-about, 
     .resume .resume-had .p-about, 
@@ -600,8 +604,7 @@ border-right: 1px solid #ddd;
  
     .box-num .tex-at-c {
         border-right: 1px solid #ddd;
-    }
-    
+    }  
 }
 @media (min-width:576px) and (max-width:768px) {
-
+}
