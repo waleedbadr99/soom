@@ -546,7 +546,7 @@ color: var(--main-color);
 }
 @media (max-width:576px) {
     .had-top {
-        background-position: 80%;
+            background-position: 90%;
     }
     .about .about-had .p-about, 
     .services .services-had .p-about, 
